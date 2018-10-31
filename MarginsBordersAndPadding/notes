@@ -1,0 +1,15 @@
+THESE NOTES ARE FOR MY OWN REFERENCE ONLY
+
+Remember that the things we worked on were from glitch.com and codepen.io.
+The files will be missing the `html` element among other things
+
+- Remember to look into flexbox for vertically aligning things. It's VERY useful!
+
+An example of it is as follows:
+```
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+```
+
